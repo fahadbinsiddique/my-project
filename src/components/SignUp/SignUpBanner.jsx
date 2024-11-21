@@ -1,6 +1,6 @@
 import React from "react";
 import { FcGoogle } from "react-icons/fc";
-import vector from '../../assets/vector.png'
+import vector from '../../assets/Vector.png'
 
 
 const SignUpBanner = () => {
